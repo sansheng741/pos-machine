@@ -20,7 +20,7 @@
 
 3.计算商品总价格
 
-|      | calcUnitPrice |
+|      | itemSubtotal  |
 | ---- | ------------- |
 | P    | 3min          |
 | D    | 3min          |
